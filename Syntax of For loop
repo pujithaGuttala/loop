@@ -1,0 +1,4 @@
+These are used for sequential transversal and repetition.
+For i in sequence:                  1:for iterator -var in sequence:
+      statement 1                             stsatement()
+      statement 2

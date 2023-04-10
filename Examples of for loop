@@ -1,0 +1,25 @@
+# For i in range(5):      O/P:01234
+#          Print(i)
+
+# x=(10,20,30,40)           O/P:10
+# for i in x:                   20
+#     print(i)                  30
+#                               40
+
+# for i in range(1,5):        O/P:1
+#     print(i)                    2
+#                                 3
+#                                 4
+
+# start=int(input("enter the start"))
+# end=int(input("enter the end"))
+# for num in range(start, end+1):
+#     if num%2!=0:
+#         print(num)
+
+
+i=1
+while i<=5:
+    print(i)
+    i=i+1
+    

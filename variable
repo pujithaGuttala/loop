@@ -1,0 +1,3 @@
+a="divya"
+b="laxmi"
+Print("my name is divya"+ a +"and my mentor name is laxmi"+b)
